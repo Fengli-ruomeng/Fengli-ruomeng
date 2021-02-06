@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Fengli-ruomeng/Fengli-ruomeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### For me :
+- New beginner for github in here!
+- I didn't like fixed time update my code
+- So my github code often no update.
+- 
+- But ! i will often upload my new code !
+- maybe is minecraft ? More maybe is other?
 
-Here are some ideas to get you started:
+### What language i can code?
+>***The meaning of percentage is How much will i can use.***
+* 98% for Java
+* 89% for C++ / C
+* 57% for C#
+* other no percentage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ***Find me!***
+**Bilibili : 凤梨Fengli (China) **
+**QQ Number : 18322311051 (Need Password) **
+**Discord : Not public for now **
