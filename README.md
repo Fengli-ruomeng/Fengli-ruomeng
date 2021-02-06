@@ -15,6 +15,6 @@
 * other no percentage
 
 ### ***Find me!***
-**Bilibili : 凤梨Fengli (China) **
-**QQ Number : 18322311051 (Need Password) **
-**Discord : Not public for now **
+- **Bilibili : 凤梨Fengli (China) **
+- **QQ Number : 18322311051 (Need Password) **
+- **Discord : Not public for now **
