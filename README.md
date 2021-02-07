@@ -3,7 +3,6 @@
 - New beginner for github in here!
 - I didn't like fixed time update my code
 - So my github code often no update.
-- 
 - But ! i will often upload my new code !
 - maybe is minecraft ? More maybe is other?
 
