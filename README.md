@@ -4,13 +4,13 @@
 - I didn't like fixed time update my code
 - So my github code often no update.
 - But ! i will often upload my new code !
-- maybe is minecraft ? More maybe is other?
+- maybe is minecraft ? maybe is other?
 
 ### What language i can code?
 >***The meaning of percentage is How much will i can use.***
-* 98% for Java
-* 89% for C++ / C
-* 57% for C#
+* 99% for Java
+* 92% for C++ / C
+* 75% for C#
 * other no percentage
 
 ### ***Find me!***
