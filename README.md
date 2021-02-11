@@ -1,10 +1,9 @@
 
-### For me :
+### About me :
 - New beginner for github in here!
 - I didn't like fixed time update my code
 - So my github code often no update.
 - But ! i will often upload my new code !
-- maybe is minecraft ? maybe is other?
 
 ### What language i can code?
 >***The meaning of percentage is How much will i can use.***
