@@ -14,5 +14,5 @@
 
 ### ***Find me!***
 - Bilibili : 凤梨Fengli (China)
-- QQ Number : 18322311051 (Need Password) 
+- QQ Number : 1851233327 (Need Password) 
 - Discord : Not public for now 
