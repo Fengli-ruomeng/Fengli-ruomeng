@@ -8,11 +8,6 @@
 ### What language i can code?
 >***The meaning of percentage is How much will i can use.***
 * 99% for Java
+* 95% for C#
 * 92% for C++ / C
-* 75% for C#
 * other no percentage
-
-### ***Find me!***
-- Bilibili : 凤梨Fengli (China)
-- QQ Number : 1851233327 (Need Password) 
-- Discord : Not public for now 
