@@ -1,4 +1,6 @@
-# KaguyaX here~ 
+![GIF](https://github.com/Fengli-ruomeng/MyImageStorage/blob/main/cat1.gif)
+##### Yeah im still working...
+
 **Try to be Full stack Developer | Hardware Enthusiast**
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F{username}%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2F{username}%2F)
@@ -27,6 +29,7 @@
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
 [![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
+![Maya](https://img.shields.io/badge/Autodesk-Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white"/)
 
 ## 🚀 Currently Exploring
 - Deep Learning/Reinforcement Learning pipelines
