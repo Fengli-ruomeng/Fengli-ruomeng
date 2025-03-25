@@ -1,54 +1,47 @@
 ![GIF](https://github.com/Fengli-ruomeng/MyImageStorage/blob/main/cat1.gif)
-##### Yeah im still working...
+##### like everything related to computers
 
-**Try to be Full stack Developer | Hardware Enthusiast**
+### Familiar programming languages
+<div>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" title="系统编程/算法">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" title="游戏开发/高性能计算">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" title="Unity开发">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="企业级开发">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="AI/科学计算">
+</div>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F{username}%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2F{username}%2F)
-[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/{username}/my-stack)
+### Web Development habits
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+</div>
 
-## 🔧 Technical Arsenal
+### Some assistive tools
+<div>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/3ds%20Max-0696D7?style=flat&logo=3dsmax&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white">
+  <img src="https://img.shields.io/badge/FL%20Studio-000000?style=flat&logo=flstudio&logoColor=white">
+</div>
 
-### **Core Languages**
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://dev.java/)
-[![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+### habitually used mathematical and deep learning tools  
+<div>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Matlab-0076A8?style=flat&logo=mathworks&logoColor=white">
+</div>
 
-### **Web Development**
-[![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+### Embedded/System
+<div>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white">
+</div>
 
-### **Infrastructure & Security**
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windowsserver&logoColor=white)](https://www.microsoft.com/en-us/windows-server)
-[![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-
-### **Creative Toolkit**
-[![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
-[![Adobe](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=flat&logo=adobecreativecloud&logoColor=white)](https://www.adobe.com/creativecloud.html)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
-![Maya](https://img.shields.io/badge/Autodesk-Maya-37A5CC?style=flat&logo=autodeskmaya&logoColor=white"/)
-
-## 🚀 Currently Exploring
-- Deep Learning/Reinforcement Learning pipelines
-- CUDA acceleration development
-- Generative AI applications
-- Robotics simulation frameworks
-
-## 💻 Hardware Lab
-### **Compute Cluster**
-- 2× Dual NVIDIA Tesla V100 Nodes (32GB HBM2 each)
-- Dedicated T4 Inference Server
-- Custom Mobile Edge Server (Ryzen 9 + RTX 3060)
-
-### **Workstation Setup**
-- Main Rig: i9-13980HX + RTX 4080 Laptop (32GB DDR5)
-- Desktop: i5-12400F + RTX 3060 Ti (64GB DDR4)
-- 42TB NAS Storage Cluster
-
-## 🌱 Recent Adventures
-- Building autonomous agents with LLM orchestration
-
-> "Still learning..."
+### learning
+`TypeScript` `KiCad` `CUDA`
